@@ -1,0 +1,6 @@
+{
+    "server": {
+        "name": "nodejs-skeleton",
+        "port": 8080
+    }
+}
